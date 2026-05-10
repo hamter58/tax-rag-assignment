@@ -1,0 +1,32 @@
+DOCUMENT: Wet op de Vennootschapsbelasting 2024 (Corporate Tax Act 2024)
+CLASSIFICATION: Public
+DEPARTMENT: Tax Policy
+
+--- ARTICLE 1 ---
+Paragraph 1: This Act governs the taxation of corporate entities operating within the jurisdiction of the Netherlands for the fiscal year 2024.
+Paragraph 2: All corporations registered with the Kamer van Koophandel (KvK) are subject to the provisions of this Act.
+
+--- ARTICLE 2 ---
+Paragraph 1: The standard corporate tax rate for the fiscal year 2024 is set at 25.8% for taxable profits exceeding EUR 200,000.
+Paragraph 2: For taxable profits up to and including EUR 200,000, a reduced rate of 19% applies.
+Paragraph 3: These rates are applicable from January 1, 2024 through December 31, 2024.
+
+--- ARTICLE 7 ---
+Paragraph 1: Deductible expenses include all costs directly related to the generation of taxable income within the Netherlands.
+Paragraph 2: Entertainment expenses are deductible up to a maximum of 80% of the incurred costs.
+Paragraph 3: Fines and penalties imposed by government authorities are not deductible under any circumstance.
+
+--- ARTICLE 12 ---
+Paragraph 1: The Innovation Box regime allows qualifying profits derived from self-developed intangible assets to be taxed at an effective rate of 9%.
+Paragraph 2: To qualify, the taxpayer must hold a qualifying R&D declaration (WBSO) issued by the Rijksdienst voor Ondernemend Nederland (RVO).
+Paragraph 3: The Innovation Box benefit is capped at five times the qualifying R&D expenditure.
+
+--- ARTICLE 15 ---
+Paragraph 1: Fiscal unity (fiscale eenheid) allows a parent company and its subsidiaries to file a consolidated tax return.
+Paragraph 2: The parent company must hold at least 95% of the nominal paid-up share capital of each subsidiary.
+Paragraph 3: Application for fiscal unity must be submitted within three months of the start of the fiscal year.
+
+--- ARTICLE 20 ---
+Paragraph 1: Tax losses may be carried forward indefinitely but are subject to a limitation.
+Paragraph 2: In any given year, losses can only be offset against the first EUR 1,000,000 of taxable profit, plus 50% of the taxable profit exceeding EUR 1,000,000.
+Paragraph 3: Loss carry-back is limited to one preceding fiscal year.
